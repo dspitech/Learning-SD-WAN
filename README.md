@@ -26,5 +26,3 @@ L'objectif est de consolider les connaissances acquises en cours et de comprendr
 - Mettre en pratique les connaissances acquises.
 - Expérimenter les configurations et les fonctionnalités du SD-WAN.
 - Développer ses compétences en architecture et en administration réseau.
-
-.
